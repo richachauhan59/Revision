@@ -1,0 +1,15 @@
+Token Name
+ImgurCloneLearning
+Access Token
+3ea4dc8d3214c619b9e65e309b5e2fdb4a9a1050
+Token Type
+bearer
+expires_in
+315360000
+scope
+refresh_token
+d4db64fa5700fc66cf5845c67aa5151b54857c63
+account_id
+141212191
+account_username
+richachauhan59
